@@ -43,7 +43,6 @@ portfolio/
 
 ## 📬 Contact Info
 
-- Primary: tasnimtbh@123@gmail.com
-- Personal: tasnim.ahmed.personall@gmail.com
+- Primary: tasnimtbh123@gmail.com
 - GitHub: [tasnim0000000](https://github.com/tasnim0000000)
 - LinkedIn: [the-tasnim-ahmed](https://www.linkedin.com/in/the-tasnim-ahmed)
