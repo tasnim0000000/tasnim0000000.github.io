@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', () => {
   })();
 
   // Hover state for interactive elements
-  const hoverEls = document.querySelectorAll('a, button, .skill-block, .contact-item');
+  const hoverEls = document.querySelectorAll('a, button, .skill-block, .contact-item, .project-card, .research-card');
   hoverEls.forEach(el => {
     el.addEventListener('mouseenter', () => document.body.classList.add('cursor-hover'));
     el.addEventListener('mouseleave', () => document.body.classList.remove('cursor-hover'));
