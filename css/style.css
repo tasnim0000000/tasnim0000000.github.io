@@ -621,6 +621,7 @@ body.cursor-hover #cursor-outer {
   border-radius: 2px;
   padding: 1rem 1.2rem;
   font-size: 0.8rem;
+   z-index: 5;
 }
 .afc-uni { color: var(--chalk3); font-size: 0.65rem; letter-spacing: 0.1em; text-transform: uppercase; margin-bottom: 4px; }
 .afc-name { color: var(--chalk); font-weight: 500; font-size: 0.85rem; }
